@@ -9,4 +9,4 @@ resources:
 
 images:
 - name: jaydenseo/simple-api
-  newTag: RB0.0.7
+  newTag: RB0.0.1
