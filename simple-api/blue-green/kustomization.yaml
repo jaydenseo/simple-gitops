@@ -8,4 +8,4 @@ resources:
 - ingress-preview-simple-api.yaml
 images:
 - name: jaydenseo/simple-api
-  newTag: RB0.0.20
+  newTag: RB0.0.21
